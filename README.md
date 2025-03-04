@@ -11,7 +11,7 @@ We will be making a small e-commerce website using Python, Flask, and JSON to se
 - Julissa Rivera
 - Joshua Reimbeau
 - Andres Turipe Toro
-- Tate, York
+- Tate York
 
 ### **Team Assignments** (Link)
 
