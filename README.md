@@ -4,8 +4,6 @@ Welcome to Team 9’s project repository. Here you will find all of the artifact
 
 We will be making a small e-commerce website using Python, Flask, and JSON to sell our once-in-a-lifetime specialty cafe items.
 
----
-
 ## **Meet Our Team** (Link to each)
 
 - Julissa Rivera
@@ -13,9 +11,9 @@ We will be making a small e-commerce website using Python, Flask, and JSON to se
 - Andres Turipe Toro
 - Tate York
 
-### **Team Assignments** (Link)
+### **[Team Assignments](https://github.com/juulsmustdie/SWE3313_TEAM9/blob/2a770331bfe733f79764e37e5def8a2dae8b5ad7/Team%20Assignments%20WIP.md)**
 
-### **Technology Selection** (Link)
+### **[Technology Selection](https://github.com/juulsmustdie/SWE3313_TEAM9/blob/2a770331bfe733f79764e37e5def8a2dae8b5ad7/Technology%20Description%20WIP.md)**
 
 ### **Project Plan** (Link)
 
