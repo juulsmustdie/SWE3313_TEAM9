@@ -10,7 +10,7 @@ Below are links for you to learn more about us, our project details, and to keep
 
 ## **Meet Our Team** 
 
-- **[Julissa Rivera](Resume/julissa_resume.md)**
+- **[Julissa Rivera](Resumes/julissa_resume.md)**
 - **[Joshua Reimbeau](https://github.com/juulsmustdie/SWE3313_TEAM9/blob/b33180ef05c979d2573d8631f58095fc6656df48/Joshua_Resume.md)**
 - **[Andres Turipe Toro](https://github.com/andresturipe/Resume/blob/main/README.md)**
 - **[Tate York](https://github.com/tatequentin/Resume/blob/main/README.md)**
