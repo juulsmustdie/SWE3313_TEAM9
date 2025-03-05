@@ -22,3 +22,5 @@ Below are links for you to learn more about us, our project details, and our pro
 ### **[YouTrack Gantt Chart (Link)](https://swe3313-team9.youtrack.cloud/gantt-charts/226-0)**
 
 ### **Project Plan Video Presentation** (Link)
+
+[Return to Table of Contents](README.md)
