@@ -6,4 +6,4 @@ Hello! (｡･∀･)ﾉﾞ
 - ### [User Interface Design](User%20Interface%20Design)
 - ### [Technical Design](Technical%20Design)
 - ### [Implementation](Implementation)
-- ### [Final presentation video (Link)]
+- ### Final presentation video (Link)
