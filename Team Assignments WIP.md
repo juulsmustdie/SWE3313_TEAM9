@@ -14,6 +14,6 @@ Joshua Reimbeau is our lead programmer. He will also be responsible for database
 
 Andres Turipe is our lead for user interface and technical design. He will also be responsible for creating any diagrams/tables needed. Andres will also assist in debugging/reviewing code from the rest of our group.
   
-## Tate York (Link)
+## [Tate York](https://github.com/tatequentin/Resume/blob/main/README.md)
 
 Tate York is our designated presenter and will be responsible for all video presentations (aside from the final project presentation as this will be a group presentation). He will also assist Julissa with YouTrack and double check to see if everything is correct. Tate will also contribute to our coding efforts alongside the rest of the group as well as debugging/reviewing code.
