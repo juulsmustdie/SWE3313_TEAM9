@@ -6,8 +6,7 @@ We will be making a small e-commerce website using Python, Flask, and JSON to se
 
 ## **Meet Our Team** (Link to each)
 
-- **[Julissa Rivera]
-(https://github.com/juulsmustdie/Julissa_Resume/blob/467b1e02ef98a71c863201e4d4452b9a1d790bc1/README.md)**
+- **[Julissa Rivera](https://github.com/juulsmustdie/Julissa_Resume/blob/467b1e02ef98a71c863201e4d4452b9a1d790bc1/README.md)**
 - Joshua Reimbeau
 - **[Andres Turipe Toro](https://github.com/andresturipe/Resume/blob/main/README.md)**
 - Tate York
