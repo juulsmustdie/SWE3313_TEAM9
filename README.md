@@ -15,6 +15,6 @@ We will be making a small e-commerce website using Python, Flask, and JSON to se
 
 ### **[Technology Selection](https://github.com/juulsmustdie/SWE3313_TEAM9/blob/2a770331bfe733f79764e37e5def8a2dae8b5ad7/Technology%20Description%20WIP.md)**
 
-### **Project Plan** (Link)
+### **[Project Plan](https://swe3313-team9.youtrack.cloud/gantt-charts/226-0)**
 
 ### **Project Plan Video Presentation** (Link)
