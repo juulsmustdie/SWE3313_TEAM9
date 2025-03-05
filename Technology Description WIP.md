@@ -6,7 +6,7 @@
 
 ## Framework - Flask
 
-- Flask was the only option under python (Refer to the Technology Selection section from project github).
+- Flask was the only option under python (Refer to the [Technology Selection](https://github.com/jeff-adkisson/swe-3313-spring-2025/blob/main/project/README.md#technology-selection) section from project github).
 
 ## Storage plan - JSON
 
