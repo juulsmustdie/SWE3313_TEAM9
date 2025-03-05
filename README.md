@@ -10,14 +10,14 @@ Below are links for you to learn more about us, our project details, and to keep
 
 ## **Meet Our Team** 
 
-- **[Julissa Rivera](https://github.com/juulsmustdie/Julissa_Resume/blob/0aea58a4ee7dc7d8d417db212ed75225395744de/README.md)**
-- **[Joshua Reimbeau](https://github.com/juulsmustdie/SWE3313_TEAM9/blob/6b3e6c86bf35a0877fe0d32c17e4c7f59f73c3d5/Resume-Joshua%20Reimbeau.md)**
+- **[Julissa Rivera](https://github.com/juulsmustdie/Julissa_Resume/blob/main/README.md)**
+- **[Joshua Reimbeau](https://github.com/juulsmustdie/SWE3313_TEAM9/blob/main/Resume-Joshua%20Reimbeau.md)**
 - **[Andres Turipe Toro](https://github.com/andresturipe/Resume/blob/main/README.md)**
 - **[Tate York](https://github.com/tatequentin/Resume)**
 
 ### **[Team Assignments](https://github.com/juulsmustdie/SWE3313_TEAM9/blob/main/Team%20Assignments%20WIP.md)**
 
-### **[Technology Selection](https://github.com/juulsmustdie/SWE3313_TEAM9/blob/2a770331bfe733f79764e37e5def8a2dae8b5ad7/Technology%20Description%20WIP.md)**
+### **[Technology Selection](https://github.com/juulsmustdie/SWE3313_TEAM9/blob/main/Technology%20Description%20WIP.md)**
 
 ### **[Project Plan](https://swe3313-team9.youtrack.cloud/gantt-charts/226-0)**
 
