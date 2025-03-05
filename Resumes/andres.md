@@ -1,4 +1,4 @@
-<h1>Andres Turipe! </h1>
+<h1>Andres Turipe </h1>
 
 **About me:**
 
