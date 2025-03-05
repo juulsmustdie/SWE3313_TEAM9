@@ -15,7 +15,7 @@ Below are links for you to learn more about us, our project details, and to keep
 - **[Andres Turipe Toro](Resumes/andres.md)**
 - **[Tate York](Resumes/tate.md)**
 
-### **[Team Assignments](Project%20Plan/Team%20Assignments.md)**
+### **[Team Assignments](Team%20Assignments.md)**
 
 ### **[Technology Selection](Project%20Plan/Technology%20Description.md)**
 
