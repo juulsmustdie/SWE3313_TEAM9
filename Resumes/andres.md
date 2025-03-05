@@ -12,13 +12,12 @@ Hi I'm Andres Turipe, a junior at Kennesaw State University majoring in computer
 
 - Currently learning Python and praciting SQL
 - Efficient in Java
-- Efficient using SQL Server Management Studio
 
 Experienced with the following IDE/Software:
 
-- 
-- 
-- 
+- Replit
+- Intellij
+- SQL Server Management Studio
 
 ## 
 
