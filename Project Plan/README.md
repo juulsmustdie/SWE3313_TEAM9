@@ -6,7 +6,7 @@ Here you will find all of the artifacts, presentations, documentation, and sourc
 
 Our team will be working on an application for a special cafe menu where customers can order our new one-of-a-kind speciality drinks and pastries. We will be using Python (Flask) and JSON to create and implement our application.
 
-Below are links for you to learn more about us, our project details, and to keep up with our progress. We look forward to working on this project together and delivering a final product you will enjoy!
+Below are links for you to learn more about us, our project details, and our project plan presentation. We look forward to working on this project together and delivering a final product you will enjoy!
 
 ## **Meet Our Team** 
 
