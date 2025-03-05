@@ -14,14 +14,17 @@ Our team will be using **Flask** as our web framework to create the screens for 
 
 Flask was the only option under Python (Refer to the [project github under the technology selection in project plan](https://github.com/jeff-adkisson/swe-3313-spring-2025/blob/main/project/README.md#technology-selection)).
 
-## Storage plan - JSON
+## Storage plan 
 
-- {Reason for choosing}
+Our team has selected **JSON** for our storage mechanism.
 
-## Operating environment - MacOS or Linux or Windows (?)
+JSON uses JavaScript, which uses Java and C for its syntax. Since everyone is proficient in either language or at least familiar with them, we thought it would be best to choose JSON.
 
-- {Reason for choosing}
 
-## Necessary Software
+## Operating environment
 
-- {Software reqs}
+Our operating environment will be on **Windows**.
+
+## Other Necessary Software
+
+Nothing else is needed at the moment! This may change in the future as we work through this project.
