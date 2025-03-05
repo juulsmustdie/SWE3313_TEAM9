@@ -1,3 +1,3 @@
 ### **Project Plan**
 
-[Team Assignments](Project%20Plan/Team%20Assignments.md)
+[Team Assignments](Team%20Assignments.md)
