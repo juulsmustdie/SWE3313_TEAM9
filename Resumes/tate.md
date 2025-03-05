@@ -2,7 +2,7 @@
 
 #### **About me:**
 
-> Hello, my name is Tate York and I am a Computer Science major at Kennesaw State University. I am currently in my junior year at KSU and am passionate about furthering and refining my computer programming and data science skills. I have a basic understanding in Java and Python, and I have a minor understanding of C and C#. I am a problem solver and leader at my core, and really enjoy working with others. I am actively and continuously seeking knowledge and opportunities in my field and look forward to working with my group!
+Hello, my name is Tate York and I am a Computer Science major at Kennesaw State University. I am currently in my junior year at KSU and am passionate about furthering and refining my computer programming and data science skills. I have a basic understanding in Java and Python, and I have a minor understanding of C and C#. I am a problem solver and leader at my core, and really enjoy working with others. I am actively and continuously seeking knowledge and opportunities in my field and look forward to working with my group!
 
 **Contact me:** tyork12@students.kennesaw.edu
 
