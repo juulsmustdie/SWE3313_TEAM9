@@ -15,7 +15,7 @@ Below are links for you to learn more about us, our project details, and to keep
 - **[Andres Turipe Toro](https://github.com/andresturipe/Resume/blob/main/README.md)**
 - **[Tate York](https://github.com/tatequentin/Resume)**
 
-### **[Team Assignments](https://github.com/juulsmustdie/SWE3313_TEAM9/blob/e5b2606e97bc3ead20c5244addfa0bd73a6f2199/Team%20Assignments%20WIP.md)**
+### **[Team Assignments](https://github.com/juulsmustdie/SWE3313_TEAM9/blob/main/Team%20Assignments%20WIP.md)**
 
 ### **[Technology Selection](https://github.com/juulsmustdie/SWE3313_TEAM9/blob/2a770331bfe733f79764e37e5def8a2dae8b5ad7/Technology%20Description%20WIP.md)**
 
