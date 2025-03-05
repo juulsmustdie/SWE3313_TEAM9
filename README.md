@@ -15,9 +15,9 @@ Below are links for you to learn more about us, our project details, and to keep
 - **[Andres Turipe Toro](Resumes/andres.md)**
 - **[Tate York](Resumes/tate.md)**
 
-### **[Team Assignments](Team%20Assignments.md)**
+### **[Team Assignments](Project%20Plan/Team%20Assignments.md)**
 
-### **[Technology Selection](Technology%20Description.md)**
+### **[Technology Selection](Project%20Plan/Technology%20Description.md)**
 
 ### **[YouTrack Gantt Chart](https://swe3313-team9.youtrack.cloud/gantt-charts/226-0)**
 
