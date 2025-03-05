@@ -4,6 +4,6 @@ Hello! (｡･∀･)ﾉﾞ
 - ### [Project Plan](Project%20Plan/README.md)
 - ### [Requirements](Requirements)
 - ### [User Interface Design](User%20Interface%20Design)
-- ### [Technical Design]
-- ### [Implementation]
-- ### [Final presentation video]
+- ### [Technical Design](Technical%20Design)
+- ### [Implementation](Implementation)
+- ### [Final presentation video (Link)]
