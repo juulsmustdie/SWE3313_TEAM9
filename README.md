@@ -13,7 +13,7 @@ Below are links for you to learn more about us, our project details, and to keep
 - **[Julissa Rivera](https://github.com/juulsmustdie/Julissa_Resume/blob/0aea58a4ee7dc7d8d417db212ed75225395744de/README.md)**
 - **[Joshua Reimbeau](https://github.com/juulsmustdie/SWE3313_TEAM9/blob/6b3e6c86bf35a0877fe0d32c17e4c7f59f73c3d5/Resume-Joshua%20Reimbeau.md)**
 - **[Andres Turipe Toro](https://github.com/andresturipe/Resume/blob/main/README.md)**
-- Tate York
+- **[Tate York](https://github.com/tatequentin/Resume)**
 
 ### **[Team Assignments](https://github.com/juulsmustdie/SWE3313_TEAM9/blob/e5b2606e97bc3ead20c5244addfa0bd73a6f2199/Team%20Assignments%20WIP.md)**
 
