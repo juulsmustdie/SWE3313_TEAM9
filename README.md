@@ -17,7 +17,7 @@ Below are links for you to learn more about us, our project details, and to keep
 
 ### **[Team Assignments](Team%20Assignments%20WIP.md)**
 
-### **[Technology Selection](https://github.com/juulsmustdie/SWE3313_TEAM9/blob/main/Technology%20Description%20WIP.md)**
+### **[Technology Selection](Technology%20Description%20WIP.md)**
 
 ### **[Project Plan](https://swe3313-team9.youtrack.cloud/gantt-charts/226-0)**
 
