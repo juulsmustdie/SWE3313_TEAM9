@@ -24,4 +24,3 @@ Below are links for you to learn more about us, our project details, and our pro
 ### **Project Plan Video Presentation** (Link)
 
 
-[Return to Table of Contents](SWE3313/README.md)
