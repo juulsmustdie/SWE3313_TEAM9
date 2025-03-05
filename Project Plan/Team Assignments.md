@@ -1,4 +1,4 @@
-# Team Assignments ヾ(＠⌒ー⌒＠)ノ
+# Team Assignments 
 
 * NOTE: These team assignments are NOT final whatsoever and will be subjected to change as we get the hang of things. All group members are allowed to switch roles and are encouraged to help each other if needed. Everyone is equally responsible for this project. :-) 
 
