@@ -4,7 +4,7 @@ Welcome to Team 9’s project repository. Here you will find all of the artifact
 
 We will be making a small e-commerce website using Python, Flask, and JSON to sell our once-in-a-lifetime specialty cafe items.
 
-## **Meet Our Team** (Link to each)
+## **Meet Our Team** 
 
 - **[Julissa Rivera](https://github.com/juulsmustdie/Julissa_Resume/blob/0aea58a4ee7dc7d8d417db212ed75225395744de/README.md)**
 - Joshua Reimbeau
