@@ -8,7 +8,7 @@ Our team will be working on an application for a special cafe menu where custome
 
 Below are links for you to learn more about us, our project details, and our project plan presentation. We look forward to working on this project together and delivering a final product you will enjoy!
 
-## **Meet Our Team** 
+## **Resumes - Meet Our Team!** 
 
 - **[Julissa Rivera](Resumes/julissa.md)**
 - **[Joshua Reimbeau](Resumes/joshua.md)**
