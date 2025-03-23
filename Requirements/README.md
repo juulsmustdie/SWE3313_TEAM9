@@ -1,6 +1,6 @@
 ## Introduction
 
-[Requirements (Analysis and Elicitation](Analysis-and-Elicitation.md)
+[Requirements (Analysis and Elicitation)](Analysis-and-Elicitation.md)
 
 [Use Case Diagram](Use-Case-Diagram.md)
 
