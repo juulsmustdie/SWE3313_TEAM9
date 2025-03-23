@@ -1,7 +1,7 @@
 # Team 9 SWE3313 Project Repository 
 Hello! (｡･∀･)ﾉﾞ
 ## Table of Contents
-- ### [Project Plan](Project%20Plan/README.md)
+- ### [Project Plan](Project-Plan/README.md)
 - ### [Requirements](Requirements)
 - ### [User Interface Design](User-Interface-Design)
 - ### [Technical Design](Technical-Design)
