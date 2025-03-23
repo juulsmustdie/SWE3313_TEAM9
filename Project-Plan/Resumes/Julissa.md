@@ -6,7 +6,7 @@ Hi, nice to meet you! My name is Julissa Rivera and I am a Computer Science majo
 
 
 **Contact me**: jriver99@students.kennesaw.edu
-(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+
 
 ##
 **Technical Capabilities**
