@@ -3,7 +3,7 @@ Hello! (｡･∀･)ﾉﾞ
 ## Table of Contents
 - ### [Project Plan](Project%20Plan/README.md)
 - ### [Requirements](Requirements)
-- ### [User Interface Design](User%20Interface%20Design)
-- ### [Technical Design](Technical%20Design)
+- ### [User Interface Design](User-Interface-Design)
+- ### [Technical Design](Technical-Design)
 - ### [Implementation](Implementation)
 - ### Final presentation video (Link)
