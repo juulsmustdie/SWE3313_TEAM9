@@ -10,10 +10,10 @@ Below are links for you to learn more about us, our project details, and our pro
 
 ## **Resumes - Meet Our Team!** 
 
-- **[Julissa Rivera](Resumes/julissa.md)**
-- **[Joshua Reimbeau](Resumes/joshua.md)**
-- **[Andres Turipe Toro](Resumes/andres.md)**
-- **[Tate York](Resumes/tate.md)**
+- **[Julissa Rivera](Resumes/Julissa.md)**
+- **[Joshua Reimbeau](Resumes/Joshua.md)**
+- **[Andres Turipe Toro](Resumes/Andres.md)**
+- **[Tate York](Resumes/Tate.md)**
 
 ### **[Team Assignments](Team-Assignments.md)**
 
