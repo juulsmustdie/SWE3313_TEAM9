@@ -1,4 +1,4 @@
-# Customer Notes and Requirements
+# Customer Notes
 Hello, Team 9! It is a pleasure to collaborate with your team to assist my café in developing an application that will allow clients to place pick-up orders from our menu.
 
 This application MUST allow customers to clearly view our items, select their choices, and make their purchases with no hassle. Other things that I require, or desire, might not be included in this initial draft. As you read this, you will quickly realize what I simply cannot function without in the initial edition. If you're unsure, please reach out and let me know!
