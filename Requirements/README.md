@@ -14,7 +14,7 @@ If you have any questions or concerns, feel free to contact us!
 
 ### Links
 
-- [Requirements (Analysis and Elicitation)](Analysis-and-Elicitation.md)
+- [Customer Notes](Customer-Notes.md)
 
 - [Requirements Writing](Requirements-Writing.md)
 
