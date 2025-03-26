@@ -12,14 +12,16 @@ If you have any questions or concerns, feel free to contact us via email.
 
 ##
 
-### Links
-
+**Requirements Analysis and Elicitation**
 - [Customer Notes](Customer-Notes.md)
 
-- [Requirements Writing](Requirements-Writing.md)
+- [Requirements for Version 1](Requirements-Writing.md)
+
+**Diagrams and Tables**
 
 - [Use Case Diagram](Use-Case-Diagram.md)
 
 - [Decision Table](Decision-Table.md)
 
-- Presentation for Requirements section (Link)
+**Loom Video**
+- Presentation for Requirements section
