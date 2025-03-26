@@ -12,7 +12,7 @@
 
 - Type: Functional 
 
-- Story Description: The system must allow customers to register and log in using a unique username and a password (minimum 6 characters). Admin accounts must be assigned manually by an existing admin. Users must provide an email for notifications.
+- Story Description: The system must allow employees/admins to register and log in using a unique username and a password (minimum 6 characters). Admin accounts must be assigned manually by an existing admin. 
 
 **Story Name: Admin User Management (T9S-2)**
 
