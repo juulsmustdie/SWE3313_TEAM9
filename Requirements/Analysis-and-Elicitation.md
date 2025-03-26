@@ -1,5 +1,5 @@
 # Customer Notes and Requirements
-Hello, Team 9! It is a pleasure to collaborate with your engineering team to assist my café in developing an application that will allow clients to place pick-up orders from our menu.
+Hello, Team 9! It is a pleasure to collaborate with your team to assist my café in developing an application that will allow clients to place pick-up orders from our menu.
 
 This software for our menu needs to allow customers to clearly view our items, select their choices, and easily/securely make their purchases. Other things that I require, or desire, might not be included in this initial draft. As you read this, you will quickly realize what I simply cannot function without in the initial edition. If you're unsure, please reach out and let me know.
 
@@ -9,24 +9,22 @@ Below are the cafe items we will have for sale.
 
 **Speciality Drinks:**
 
-1.	Lavender Honey Latte (5)
-A soothing blend of espresso, steamed milk, lavender syrup, and a drizzle of honey.
-2.	Matcha Coconut Bliss (5)
-Creamy matcha green tea mixed with coconut milk and a hint of vanilla.
-3.	Salted Caramel Mocha (5)
-Rich espresso with chocolate, salted caramel sauce, and whipped cream.
-4.	Berry Hibiscus Cooler (5)
-A refreshing iced tea with hibiscus, mixed berries, and a splash of lemon.
+1. Lavender Honey Latte (5) - *A soothing blend of espresso, steamed milk, lavender syrup, and a drizzle of honey.*
+
+2.	Matcha Coconut Bliss (5) - *Creamy matcha green tea mixed with coconut milk and a hint of vanilla.*
+
+3.	Salted Caramel Mocha (5) - *Rich espresso with chocolate, salted caramel sauce, and whipped cream.*
+
+4.	Berry Hibiscus Cooler (5) - *A refreshing iced tea with hibiscus, mixed berries, and a splash of lemon.*
 ________________________________________
 **One-of-a-Kind Pastries:**
-1.	Lemon Blueberry Cheesecake Danish (10)
-Flaky pastry filled with lemon cheesecake and topped with fresh blueberries.
-2.	Salted Dark Chocolate Croissant (10)
-Buttery croissant with a gooey dark chocolate filling and a sprinkle of sea salt.
-3.	Matcha White Chocolate Scone (10)
-A tender scone infused with matcha and studded with white chocolate chips.
-4.	Pistachio Cardamom Roll (10)
-Soft, sweet roll with a pistachio-cardamom filling and a drizzle of icing.
+1.	Lemon Blueberry Cheesecake Danish (10) - *Flaky pastry filled with lemon cheesecake and topped with fresh blueberries.*
+   
+2.	Salted Dark Chocolate Croissant (10) - *Buttery croissant with a gooey dark chocolate filling and a sprinkle of sea salt.*
+   
+3.	Matcha White Chocolate Scone (10) - *A tender scone infused with matcha and studded with white chocolate chips.*
+   
+4.	Pistachio Cardamom Roll (10) - *Soft, sweet roll with a pistachio-cardamom filling and a drizzle of icing.*
 
 
 ## User Registration and Login
