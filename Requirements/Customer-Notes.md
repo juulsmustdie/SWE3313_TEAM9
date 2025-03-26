@@ -87,7 +87,7 @@ Users can click a place order or check out button to finalize the order.
 
 Users cannot click place order or check out button if the order is empty.
 
-After clicking Checkout, Our users must see:
+After clicking Checkout, our users must see:
 
 -	A list of items in the order.
 
