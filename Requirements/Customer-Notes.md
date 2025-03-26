@@ -39,9 +39,9 @@ Along with this, I also want the menu to display one or two pictures of each ite
 
 ## User Registration and Login
 
-Users must be able to log in to the system.
+**Only certain users should be able to log in to the system.**
 
-- There must be an admin user type for employees to have access and be able to log in and run sales reports.
+- There must be an admin user type for employees to log in and run sales reports.
 - Admins cannot self-register, someone whose already admin has to give that person the employee access.
 - A simple user interface for this would be great, but a manual process is acceptable for Version 1.
 
