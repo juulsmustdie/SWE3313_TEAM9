@@ -8,7 +8,9 @@ Below are links to said customer notes, finalized requirements for Version 1, a 
 
 To save you some time, we also linked our Loom video presentation of this section at the very bottom.
 
-If you have any questions or concerns, feel free to contact us!
+If you have any questions or concerns, feel free to contact us via email. 
+
+<sub>_(Click [here](SWE3313_TEAM9/Project-Plan/Resumes) to find team member emails)_</sub>
 
 ##
 
