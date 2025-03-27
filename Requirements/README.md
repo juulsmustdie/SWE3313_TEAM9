@@ -19,7 +19,7 @@ If you have any questions or concerns, feel free to contact us via email.
 
 **Diagrams and Tables**
 
-- [Use Case Diagram](Use-Case-Diagram.md)
+- [Use Case Diagram](Use-Case-Diagram.svg)
 
 - [Decision Table](Decision-Table.md)
 
