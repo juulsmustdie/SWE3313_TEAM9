@@ -40,7 +40,9 @@
 
 **Story Name: Item Details (T9S-4)**
 
-- Priority: Must HaveEstimated Effort: 1.5 days
+- Priority: Must Have
+
+- Estimated Effort: 1.5 days
 
 - Type: Functional 
 
