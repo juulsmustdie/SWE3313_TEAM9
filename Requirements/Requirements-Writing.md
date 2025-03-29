@@ -132,7 +132,7 @@
 
 **Story Name: Export Sales Report (T9S-12)**
 
-- Priority: Needs to Have
+- Priority: Must Have
 
 - Estimated Effort: 2 days
 
