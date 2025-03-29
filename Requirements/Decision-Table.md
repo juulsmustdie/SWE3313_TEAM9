@@ -9,6 +9,6 @@
 | Select 'Confirm Order'                         | Yes                                          | -                                            |Yes|
 | Select 'Complete Order'                        | Yes                                          | -                                            |Yes|
 | Remove item(s) from cart                       | Yes                                          | -                                            |Yes|
-| Request sales report                           | No                                           | -                                            |No|
+| Request sales report                           | No                                           | Yes                                          |No|
 | Export sales report                            | No                                           | Yes                                          |No|
 | Add a new menu item                            | No                                           | Yes                                          |No |
