@@ -24,5 +24,4 @@ If you have any questions or concerns, feel free to contact us via email.
 - [Decision Table](Decision-Table.md)
 
 **Loom Video**
-- Presentation for Requirements section
-- ### **[Project Plan Video Presentation](https://www.loom.com/share/2a2942bf18cd461e94503511ba693533?sid=6542a931-fe28-44ae-af2e-dad2a6faabed)**
+- ### **[Presentation for Requirements section](https://www.loom.com/share/2a2942bf18cd461e94503511ba693533?sid=6542a931-fe28-44ae-af2e-dad2a6faabed)**
