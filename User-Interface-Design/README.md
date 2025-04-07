@@ -2,7 +2,7 @@
 
 Hello! Welcome to the User Interface Design of our Project Repository. 
 
-Below, we have a link to the high-fidelity iteractive mockup (created using Marvel) to give you an idea of how our application will look like once it's created.
+Below, we have a link to the high-fidelity interactive mockup (created using Marvel) to give you an idea of how our application will look like once it's created.
 
 As always, we have also provided a link to a video presentation of this section for your convenience. 
 
