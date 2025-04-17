@@ -1,8 +1,6 @@
 # Implementation Languages and frameworks
 
-## 1.	Implementation Language(s)
-
-## Python
+## Language choice - Python
 
 * Why Python?
     * Simple, readable syntax—great for rapid development.
@@ -21,9 +19,7 @@
     * CSS Documentation (MDN) (https://developer.mozilla.org/en-US/docs/Web/CSS)
     * HTML & CSS Tutorial (Freedcamp)
 
-## 2.	Implementation Framework(s)
-
-## Flask(Python Web Framework)
+## Framework Choice - Flask
 
 * Why Flask?
     * Lightweight and flexible ideal for small to medium-sized applications like our online coffee shop.
