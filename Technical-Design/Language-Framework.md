@@ -22,7 +22,7 @@
 ## Framework Choice - Flask
 
 * Why Flask?
-    * Lightweight and flexible ideal for small to medium-sized applications like our online coffee shop.
+    * Lightweight and flexible; ideal for small to medium-sized applications like our online coffee shop.
     * It is easy to get started and integrates well with Python
 * Documentation & Resources
     * Flask Official Documentation
