@@ -2,7 +2,7 @@ User
 
 | **Property** | Type | Default | Nullable | Relationship | Notes |
 | --- | --- | --- | --- | --- | --- |
-| user_id | Primary key, integer, identity | — | No | Relate to Cart.user_id and Order.user_id |  |
+| user_id | Primary key, integer, identity |  | No | Relate to Cart.user_id and Order.user_id |  |
 | is_admin | Boolean | False | No |  |  |
 | name | String(50) | “” | Yes |  | Null for users, required for admins |
 | email | String(100) | “” | Yes |  | Null for users, required for admins |
@@ -13,7 +13,7 @@ Product
 | **Property** | Type | Default | Nullable | Relationship | Notes |
 | --- | --- | --- | --- | --- | --- |
 | product_id | Primary key, integer, identity |  | No | Relate to Cart_item.product_id and Orderline.product_id |  |
-| name | String(100) |  |  |  |  |
+| name | String(100) | “” | no |  |  |
 | current_price | Float | 0.0 | No |  |  |
 | description | String(300) |  | No |  |  |
 | in_stock | Boolean | True | No |  |  |
