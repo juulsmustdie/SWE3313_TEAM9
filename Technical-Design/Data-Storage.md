@@ -35,7 +35,7 @@ The goal is to use a lightweight, readable format that works smoothly with Pytho
    - Parse the data into Python dictionaries/lists for in-app use.
 
 3. **Write Data**
-   - After adding, editing, and/or deleting data (such as new order or updated user info), use _json.dump()_ to save the updated Python structure back to the JSON file.
+   - After adding, editing, and/or deleting data (such as new orders or updated user info), use _json.dump()_ to save the updated Python structure back to the JSON file.
    - This allows our application to persist change across sessions.
 
 4. **File Organization**
