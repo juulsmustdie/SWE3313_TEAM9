@@ -15,8 +15,12 @@ We will follow [**PEP 8 – the official Python style guide**](https://peps.pyth
 ### Important things to consider while coding include: 
 - Spaces between code and proper indentations improve readability.
 - With the previous point in mind, avoid cramming too much on a single line to maintain readability and traceability in your code (refer to IDE's visual guide for character limit).
-- Use meaningful, descriptive names for variables, functions, and files to avoid any confusion and ambiguity. Be sure to keep names as short/clean as possible, excessively long names aren't great either.
+- Use meaningful, descriptive names for variables, functions, and files to avoid any confusion and ambiguity.
+- Be sure to keep names as short/clean as possible, excessively long names aren't great either.
 - _**Prefer clarity over cleverness**_ — code should be self-explanatory and easy for the next person to read/pick up for future versions.
+- EVERYONE is responsible for checking all code, even if they did not write it. If one part of the application fails, the entire thing fails.
+- Comments are your best friend. Leave helpful comments to explain what's going on or why you implemented something.
+- Feedback is extremely important when it comes to coding in a team. If you see areas could be improved, say something and work together to fix it.
 
 ---
 
