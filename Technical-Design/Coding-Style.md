@@ -54,10 +54,10 @@ We will follow [**PEP 8 – the official Python style guide**](https://peps.pyth
 
 ## Integration Testing
 
-- **Integration tests should be done periodically** —
+- _**Integration tests should be done periodically**_ — While all features/merges should be tested regardless of importance, our high priority features especially need to undergo integration testing.
   
 - Integration tests should do the following:
 
-    - Cover critical application features to ensure that these function work as expected.
+    - Cover ALL critical application features to ensure that these functions work as expected.
 
-    - Include tests for common failure modes 
+    - Test for common failures. 
