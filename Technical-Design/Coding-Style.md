@@ -20,7 +20,7 @@ We will follow [**PEP 8 – the official Python style guide**](https://peps.pyth
   
 - Use meaningful, descriptive names for variables, functions, and files to avoid any confusion and ambiguity.
   
-- Be sure to keep names as short/clean as possible, excessively long names aren't great either.
+- Be sure to keep names as short/clean as possible; excessively long names aren't great either.
   
 - _**Prefer clarity over cleverness**_ — code should be self-explanatory and easy for the next person to read/pick up for future versions.
   
@@ -40,7 +40,7 @@ We will follow [**PEP 8 – the official Python style guide**](https://peps.pyth
 
 - Place all test files inside a tests/ directory to keep it organized.
 
-- Test files should be named with "test_" prefix, such as test_*.py, to avoid mixups and confusion.
+- Test files should be named with the "test_" prefix, such as test_*.py, to avoid mix-ups and confusion.
 
 - Focus on:
 
@@ -54,7 +54,7 @@ We will follow [**PEP 8 – the official Python style guide**](https://peps.pyth
 
 ## Integration Testing
 
-- _**Integration tests should be done periodically**_ — While all features/merges should be tested, our high priority features _especially_ need to undergo integration testing.
+- _**Integration tests should be done periodically**_ — While all features/merges should be tested, our high-priority features _especially_ need to undergo integration testing.
   
 - Integration tests should do the following:
 
