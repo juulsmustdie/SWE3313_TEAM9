@@ -60,4 +60,4 @@ We will follow [**PEP 8 – the official Python style guide**](https://peps.pyth
 
     - Cover ALL critical application features to ensure that these functions work as expected.
 
-    - Test for common failures. 
+    - Test for all common failures and cases. 
