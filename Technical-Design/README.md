@@ -6,7 +6,7 @@ As we approach the final part of our semester-long project, our technical design
 
 Below are links to quick, in-depth summaries about our chosen programming language/framework, data storage plan, and the coding style we will abide by while implementing our final application.
 
-We have also created helpful diagrams and tables that display the entities and relationships in our system along with examples.
+We have also created helpful diagrams and tables that display the entities and relationships in our system, along with examples.
 
 As always, we have a link to a video presentation on this section for your time and convenience. 
 
