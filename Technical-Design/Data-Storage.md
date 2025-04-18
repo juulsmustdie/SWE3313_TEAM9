@@ -16,7 +16,7 @@ The goal is to use a lightweight, readable format that works smoothly with Pytho
 ## Technologies & Libraries 
 - **Python Standard Library:**
   - JSON module – Reading and writing JSON files.
-  - OS module – Checking for file existence and handle file paths.
+  - OS module – Checking for file existence and handling file paths.
 - **Flask Framework:**
   - Routing and handling HTTP requests.
   - No ORM or database layer is needed since JSON will act as the database.
