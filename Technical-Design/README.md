@@ -4,7 +4,10 @@
 
 ### - [Implementation Language and Framework](Language-Framework.md)
 
-### - [Entity Relationship Diagram, Entity/Field Descriptions and Data Examples]()
+### - Data Visualized
+- [Entity Relationship Diagram](ERD.png)
+- [Entity Field Descriptions]()
+- [Example Data]()
 
 ### - [Data Storage Plan](Data-Storage.md)
 
