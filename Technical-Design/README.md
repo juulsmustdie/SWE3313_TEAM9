@@ -18,7 +18,7 @@ If you have any questions/concerns, feel free to contact us at any time.
 
 ### - Data Visualized
 - [Entity Relationship Diagram](ERD.png)
-- [Entity Field Descriptions]()
+- [Entity Field Descriptions](Technical-Design/Entity-Field-Descriptions.md)
 - [Example Data]()
 
 ### - [Data Storage Plan](Data-Storage.md)
