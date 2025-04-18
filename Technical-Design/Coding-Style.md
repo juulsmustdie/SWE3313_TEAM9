@@ -20,7 +20,8 @@ We will follow [**PEP 8 – the official Python style guide**](https://peps.pyth
 - _**Prefer clarity over cleverness**_ — code should be self-explanatory and easy for the next person to read/pick up for future versions.
 - EVERYONE is responsible for checking all code, even if they did not write it. If one part of the application fails, the entire thing fails.
 - Comments are your best friend. Leave helpful comments to explain what's going on or why you implemented something.
-- Feedback is extremely important when it comes to coding in a team. If you see areas could be improved, say something and work together to fix it.
+- Feedback is extremely important when it comes to coding in a team. If you see parts that need improvement, say something and work together to fix it.
+- _Do not wait until the last minute to test parts of the application_. Consider any and all possible risks and test your software as needed.
 
 ---
 
