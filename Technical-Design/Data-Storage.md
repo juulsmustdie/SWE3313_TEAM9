@@ -47,7 +47,6 @@ The goal is to use a lightweight, readable format that integrates smoothly with 
 
 | Data Type      | File Name          | Description                            |
 |----------------|--------------------|----------------------------------------|
-| Users          | users.json         | Stores registered user info            |
 | Orders         | orders.json        | Stores all orders made by users        |
 | Menu Items     | menu.json          | Stores available menu items            |
 | Admin Settings | admin.json         | Stores admin-related configuration     |
