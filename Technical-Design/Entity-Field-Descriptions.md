@@ -1,4 +1,4 @@
-User
+## User
 
 | **Property** | Type | Default | Nullable | Relationship | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -8,7 +8,7 @@ User
 | email | String(100) | “” | Yes |  | Null for users, required for admins |
 | password | String(255) | “” | Yes |  | Null for users, required for admins |
 
-Product
+## Product
 
 | **Property** | Type | Default | Nullable | Relationship | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -18,14 +18,14 @@ Product
 | description | String(300) | “” | No |  |  |
 | in_stock | Boolean | True | No |  |  |
 
-Cart
+## Cart
 
 | **Property** | Type | Default | Nullable | Relationship | Notes |
 | --- | --- | --- | --- | --- | --- |
 | cart_id | Primary key, integer, identity |  | No | Relate to Cart_item.cart_id |  |
 | user_id | Foreign key, integer |  | No | Relate to User.user_id |  |
 
-Cart_item
+## Cart_item
 
 | **Property** | Type | Default | Nullable | Relationship | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -33,7 +33,7 @@ Cart_item
 | cart_id | Foreign key, integer |  | No | Relate to Cart.cart_id |  |
 | product_id | Foreign key, integer |  | No | Relate to Product.product_id |  |
 
-Order
+## Order
 
 | **Property** | Type | Default | Nullable | Relationship | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -44,7 +44,7 @@ Order
 | tax | Float | 0.0 | No |  |  |
 | total | Float | 0.0 | No |  |  |
 
-Orderline
+## Orderline
 
 | **Property** | Type | Default | Nullable | Relationship | Notes |
 | --- | --- | --- | --- | --- | --- |
