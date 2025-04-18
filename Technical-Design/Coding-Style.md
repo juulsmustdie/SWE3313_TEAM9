@@ -54,7 +54,7 @@ We will follow [**PEP 8 – the official Python style guide**](https://peps.pyth
 
 ## Integration Testing
 
-- _**Integration tests should be done periodically**_ — While all features/merges should be tested regardless of importance, our high priority features especially need to undergo integration testing.
+- _**Integration tests should be done periodically**_ — While all features/merges should be tested, our high priority features _especially_ need to undergo integration testing.
   
 - Integration tests should do the following:
 
