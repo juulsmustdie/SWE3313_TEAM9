@@ -15,7 +15,7 @@ Product
 | product_id | Primary key, integer, identity |  | No | Relate to Cart_item.product_id and Orderline.product_id |  |
 | name | String(100) | “” | No |  |  |
 | current_price | Float | 0.0 | No |  |  |
-| description | String(300) |  | No |  |  |
+| description | String(300) | “” | No |  |  |
 | in_stock | Boolean | True | No |  |  |
 
 Cart
