@@ -4,7 +4,7 @@ This document outlines the data storage strategy for our cafe menu application.
 
 We will store all essential data in JSON files to make sure our data persists between sessions and behaves like a real-world application.  
 
-The goal is to use a lightweight, readable format that integrates smoothly with Python and doesn't require a full database system—ideal.
+The goal is to use a lightweight, readable format that works smoothly with Python and doesn't require a full database system—ideal.
 
 
 ## Storage Format Choice: JSON
