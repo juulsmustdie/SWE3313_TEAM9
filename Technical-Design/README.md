@@ -26,5 +26,5 @@ If you have any questions/concerns, feel free to contact us at any time.
 
 ### - [Coding Style Guide](Coding-Style.md)
 
-### - [Technical Design Video Presentation (Link)](https://www.loom.com/share/394dbaf93ad64d37afea79d3a6b0bf49?sid=ebaa816f-1153-4bf2-980f-679f3b149870)
+### - [Technical Design Video Presentation](https://www.loom.com/share/394dbaf93ad64d37afea79d3a6b0bf49?sid=ebaa816f-1153-4bf2-980f-679f3b149870)
 
