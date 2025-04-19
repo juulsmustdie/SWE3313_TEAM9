@@ -17,7 +17,7 @@
 | current_price | Float | 0.0 | No |  |  |
 | description | String(300) | “” | No |  |  |
 | in_stock | Boolean | True | No |  |  |
-| picture | String(255) |  | No |  | file path to image |
+| picture | String(255) |  | No |  | File path to image |
 
 ## Cart
 
