@@ -4,7 +4,9 @@ Welcome to the implementation section of our team repository!
 
 After much planning and preparation, we have finally implemented the Bakes n' Shakes web application.
 
-**With this application, customers will now be able to:**
+### User Interface for Customers
+
+*With this application, customers will now be able to:*
 
 - View the Bakes n' Shakes menu options (including each item's photo, price, and description)
   
@@ -19,6 +21,27 @@ After much planning and preparation, we have finally implemented the Bakes n' Sh
 Every customer will also receive an order confirmation after payment along with a copy of their receipt.
 
 ##
+
+### User Interface for Admins
+
+*With this application, admin users will now be able to:*
+
+- Login/create an account
+  
+- Promote other users as admin
+
+- Add new items to the menu (includes adding the photo, price, and description)
+  
+- Modify any existing items on the menu
+
+- Generate sales reports
+
+- Pull up the receipts for purchased items
+
+##
+### Additional Features
+
+*Other helpful features of this application include:*
 
 # Environment requirements
 
