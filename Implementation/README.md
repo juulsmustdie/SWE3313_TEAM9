@@ -9,6 +9,8 @@ After much planning and preparation, we have finally implemented the Bakes n' Sh
 *With this application, customers will now be able to:*
 
 - View the Bakes n' Shakes menu options (including each item's photo, price, and description)
+
+- Search for a specific item in the search bar
   
 - Add any item to their cart
   
@@ -42,6 +44,17 @@ Every customer will also receive an order confirmation after payment along with 
 ### Additional Features
 
 *Other helpful features of this application include:*
+
+- Click feature on the Bakes n' Shakes name in the upper left that returns the user to the homepage
+
+- 'Login' button for admins to login from any page
+
+- 'Log out' button for admins
+
+- A 'Menu' button for users to go back to menu page wherever
+  
+- A 'We think you might like:' section to promote more sales
+
 
 # Environment requirements
 
