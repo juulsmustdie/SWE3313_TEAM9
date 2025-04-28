@@ -64,10 +64,8 @@ Our application can run on the following operating systems:
 
 # Application Setup Guide
 
-(completely optional, but i do think it will help. we can decide to keep this or not. i can volunteer to do the video for windows)
-
-For help on how to get the application running, click on the set-up tutorials below for your corresponding operating system:
-- [Application set-up (Windows)]()
+For more help on how to get our application running, click on the set-up tutorials below for your corresponding operating system:
+- [Application set-up (Windows)](https://www.loom.com/share/9729a2505b8a43f5b7d4fc3b04f1b6b4?sid=f0be05f3-a1f6-4fca-8701-7bc51414d9fc)
 - [Application set-up (MacOS)]()
 
 # Final Project Presentation
