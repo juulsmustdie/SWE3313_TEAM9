@@ -72,12 +72,14 @@ For help on how to get the application running, click on the set-up tutorials be
 
 # Final Project Presentation
 
-As always, we have a video presentation of the application for your convenience. This video includes a run through of the cafe application (both as a customer and admin), a comparison between the Marvel UI design and our final product, and any additional comments/points about the application.
+As always, we have a video presentation of the application for your convenience. 
+
+This video includes a run through of the cafe application (both as a customer and admin), a comparison between the Marvel UI design and our final product, and any additional comments/points about the application.
 
 We are excited for you to see and finally use our product! We hope that everything exceeded your expectations and we thank you for the opportunity to work together on this project.
 
 If you have any further comments/concerns, feel free to contact us. 
 
-~ Team 9 :-)
+— *Team 9*
 
 [Fianl Project Presentation (Loom video)]()
