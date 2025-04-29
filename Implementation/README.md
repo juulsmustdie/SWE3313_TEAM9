@@ -64,9 +64,53 @@ Our application can run on the following operating systems:
 
 # Application Setup Guide
 
-For more help on how to get our application running, click on the set-up tutorials below for your corresponding operating system:
-- [Application set-up (Windows)](https://www.loom.com/share/9729a2505b8a43f5b7d4fc3b04f1b6b4?sid=f0be05f3-a1f6-4fca-8701-7bc51414d9fc)
-- [Application set-up (MacOS)](https://www.loom.com/share/232a87e2cd3d4ca986f70f026729bea8?sid=f40e2e75-7378-43cd-a0af-b13fc2dd3fea)
+#### Windows (Step-by-step):
+
+1. Download all necessary files [here]().
+   
+2. Save files into one folder.
+    - *Note: I would recommend storing this folder under a short, descriptive name and placing it in a easy-to-find spot in your directory.*
+    
+3. Open up your Command Prompt
+   
+4. From there, copy the pathway to your folder or type it in manually (such as '_C:\Users\abc>cd Documents>cd Folder_')
+
+5. To install Flask, type in the following command:
+
+   _py -m venv env_
+
+6. Afterwards, your folder pathway should reprint on your terminal. Type in the following command activate your virtual environment:
+
+   _env\Scripts\activate_
+
+7. Once you see the '_(env)_' next to your folder pathway, you can now install flask by typing in the following command:
+
+    _pip install flask_
+
+8. Once Flask is installed, we can now run the application by typing:
+
+    _set [FOLDER_NAME]=run.py_
+   
+   - *Note: [FOLDER_NAME] should be whatever you decided to name the folder that stores all the app files. Aside from that, type everything else exactly how you see it.*
+     
+9. After that, simply type in the '_flask run_' command to run the application.
+    
+10. If done correctly, you should see a URL link. Copy and paste that into your browser and you can now access our website.
+
+##
+
+### MacOS (Step-by-step)
+
+1. Download all necessary files [here]().
+
+2. 
+
+##
+
+_If you are having trouble setting this up, click on the tutorial for your corresponding operating system below:_
+
+- [Application set-up tutorial (Windows)](https://www.loom.com/share/9729a2505b8a43f5b7d4fc3b04f1b6b4?sid=f0be05f3-a1f6-4fca-8701-7bc51414d9fc)
+- [Application set-up tutorial (MacOS)]()
 
 # Final Project Presentation
 
