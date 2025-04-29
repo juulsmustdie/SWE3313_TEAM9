@@ -1,4 +1,4 @@
-# Introduction (WIP)
+# Introduction 
 
 Welcome to the implementation section of our team repository! 
 
@@ -103,7 +103,30 @@ Our application can run on the following operating systems:
 
 1. Download all necessary files [here]().
 
-2. 
+2. Save files into one folder.
+    - *Note: I would recommend storing this folder under a short, descriptive name and placing it in a easy-to-find spot in your directory.*
+
+3. Open up your Terminal Application.
+
+4. From there, copy the pathway to your folder or type it in manually (such as '_johndoe123@abc-MacBook-Pro Desktop % cd [FOLDER_NAME]_')
+
+5. To install Flask, type in the following command:
+
+   _python3 -m venv venv_
+
+6. Afterwards, your folder pathway should reprint on your terminal. Type in the following command activate your virtual environment:
+
+   _source venv/bin/activate_
+
+7. Once you see the '_(venv)_' next to your folder pathway, you can now install flask by typing in the following command:
+
+   _pip install flask_
+
+8. Once Flask is installed, we can now run the application by typing:
+
+    _python3 run.py_
+    
+10. If done correctly, you should see a URL link. Copy and paste that into your web browser and you can now access our website.
 
 ##
 
