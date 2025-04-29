@@ -20,7 +20,7 @@ After much planning and preparation, we have finally implemented the Bakes n' Sh
   
 - Place their orders for pick-up
 
-Every customer will also receive an order confirmation after payment along with a copy of their receipt.
+- Receive an order confirmation after payment along with a copy of their receipt.
 
 ##
 
