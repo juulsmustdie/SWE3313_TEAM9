@@ -68,7 +68,7 @@ Our application can run on the following operating systems:
 - Windows
 - MacOS
 
-# Application Setup Guide
+## Application Setup Guide
 
 #### Windows (Step-by-step):
 
