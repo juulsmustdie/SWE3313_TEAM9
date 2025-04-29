@@ -72,7 +72,7 @@ Our application can run on the following operating systems:
 
 #### Windows (Step-by-step):
 
-1. Download all necessary files [here]().
+1. Download all necessary files [here](https://github.com/tatequentin/CoffeeShopClean).
    
 2. Save files into one folder.
     - *Note: I would recommend storing this folder under a short, descriptive name and placing it in a easy-to-find spot in your directory.*
@@ -107,7 +107,7 @@ Our application can run on the following operating systems:
 
 ### MacOS (Step-by-step)
 
-1. Download all necessary files [here]().
+1. Download all necessary files [here](https://github.com/tatequentin/CoffeeShopClean).
 
 2. Save files into one folder.
     - *Note: I would recommend storing this folder under a short, descriptive name and placing it in a easy-to-find spot in your directory.*
