@@ -72,20 +72,21 @@ Our application can run on the following operating systems:
 
 #### Windows (Step-by-step):
 
-1. Download all necessary files [here](https://github.com/tatequentin/CoffeeShopClean).
+1. Click [here](https://github.com/tatequentin/CoffeeShopClean) to access application files.
    
-2. Save files into one folder.
-    - *Note: I would recommend storing this folder under a short, descriptive name and placing it in a easy-to-find spot in your directory.*
-    
-3. Open up your Command Prompt
+2. Press the arrow on the green '<> Code' button and select "Open with GitHub Desktop".
+
+  - _Note: You will have to download the GitHub Desktop application to access these files._
    
-4. From there, copy the pathway to your folder or type it in manually (such as '_C:\Users\abc>cd Documents>cd Folder_')
+3. From there, click the 'Repository' tab on the bar and select 'Open in Command Prompt'
+
+4. Once clicked, you should automatically see the path to the files on your terminal.
 
 5. To install Flask, type in the following command:
 
    _py -m venv env_
 
-6. Afterwards, your folder pathway should reprint on your terminal. Type in the following command activate your virtual environment:
+6. Afterwards, your folder pathw should reprint on your terminal. Type in the following command activate your virtual environment:
 
    _env\Scripts\activate_
 
@@ -95,10 +96,8 @@ Our application can run on the following operating systems:
 
 8. Once Flask is installed, we can now run the application by typing:
 
-    _set [FOLDER_NAME]=run.py_
+    _set COFFEESHOPCLEAN=run.py_
    
-   - *Note: [FOLDER_NAME] should be whatever you decided to name the folder that stores all the app files. Aside from that, type everything else exactly how you see it.*
-     
 9. After that, simply type in the '_flask run_' command to run the application.
     
 10. If done correctly, you should see a URL link. Copy and paste that into your browser and you can now access our website.
@@ -107,38 +106,37 @@ Our application can run on the following operating systems:
 
 ### MacOS (Step-by-step)
 
-1. Download all necessary files [here](https://github.com/tatequentin/CoffeeShopClean).
+1. Click [here](https://github.com/tatequentin/CoffeeShopClean) to access application files.
+   
+2. Press the arrow on the green '<> Code' button and select "Open with GitHub Desktop".
 
-2. Save files into one folder.
-    - *Note: I would recommend storing this folder under a short, descriptive name and placing it in a easy-to-find spot in your directory.*
+  - _Note: You will have to download the GitHub Desktop application to access these files._
 
-3. Open up your Terminal Application.
+3. From there, click the 'Repository' tab on the bar and select 'Open in Command Prompt'
 
-4. From there, copy the pathway to your folder or type it in manually (such as '_johndoe123@abc-MacBook-Pro Desktop % cd [FOLDER_NAME]_')
-
-5. To install Flask, type in the following command:
+4. To install Flask, type in the following command:
 
    _python3 -m venv venv_
 
-6. Afterwards, your folder pathway should reprint on your terminal. Type in the following command activate your virtual environment:
+5. Afterwards, your folder pathway should reprint on your terminal. Type in the following command activate your virtual environment:
 
    _source venv/bin/activate_
 
-7. Once you see the '_(venv)_' next to your folder pathway, you can now install flask by typing in the following command:
+6. Once you see the '_(venv)_' next to your folder pathway, you can now install flask by typing in the following command:
 
    _pip install flask_
 
-8. Once Flask is installed, we can now run the application by typing:
+7. Once Flask is installed, we can now run the application by typing:
 
     _python3 run.py_
     
-10. If done correctly, you should see a URL link. Copy and paste that into your web browser and you can now access our website.
+8. If done correctly, you should see a URL link. Copy and paste that into your web browser and you can now access our website.
 
 ##
 
 _If you are having trouble setting this up, click on the tutorial for your corresponding operating system below:_
 
-- [Application set-up tutorial (Windows)](https://www.loom.com/share/9729a2505b8a43f5b7d4fc3b04f1b6b4?sid=f0be05f3-a1f6-4fca-8701-7bc51414d9fc)
+- [Application set-up tutorial (Windows)](https://www.loom.com/share/535fc27dbc1443d78d5631342a66abfa?sid=442c6496-a17a-4497-adc6-00f65406111d)
 - [Application set-up tutorial (MacOS)]()
 
 # Final Project Presentation
