@@ -66,7 +66,7 @@ Our application can run on the following operating systems:
 
 For more help on how to get our application running, click on the set-up tutorials below for your corresponding operating system:
 - [Application set-up (Windows)](https://www.loom.com/share/9729a2505b8a43f5b7d4fc3b04f1b6b4?sid=f0be05f3-a1f6-4fca-8701-7bc51414d9fc)
-- [Application set-up (MacOS)]()
+- [Application set-up (MacOS)](https://www.loom.com/share/232a87e2cd3d4ca986f70f026729bea8?sid=f40e2e75-7378-43cd-a0af-b13fc2dd3fea)
 
 # Final Project Presentation
 
