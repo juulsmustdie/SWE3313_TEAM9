@@ -143,7 +143,7 @@ _If you are having trouble setting this up, click on the tutorial for your corre
 
 # Final Project Presentation
 
-As always, we have a video presentation of the application for your convenience. 
+As always, we have a video presentation of this section for your convenience. 
 
 This video includes a run through of the cafe application (both as a customer and admin), a comparison between the Marvel UI design and our final product, and any additional comments/points about the application.
 
