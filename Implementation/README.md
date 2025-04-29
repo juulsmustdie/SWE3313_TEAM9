@@ -4,6 +4,12 @@ Welcome to the implementation section of our team repository!
 
 After much planning and preparation, we have finally implemented the Bakes n' Shakes web application.
 
+Here, you will find everything about our finished product. 
+
+Below are documents about what operating systems can be used, step-by-step guides on how to run our software (along with video tutorials if needed), and all our necessary files.
+
+##
+
 ### User Interface for Customers
 
 *With this application, customers will now be able to:*
